@@ -1,0 +1,1 @@
+# schemaplugin_wordpress
